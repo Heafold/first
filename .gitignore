@@ -1,0 +1,11 @@
+#Executable Windows
+*.exe 
+#Executable Linux
+*.deb
+#Executable MacOS
+*.app
+*.dmg
+#Fichier logs
+logs/
+#Sauf
+!logs/**/*.pseudo
